@@ -7,11 +7,11 @@
         <one>Run app</one>
         <two>Click button to enter email</two>
       </STR>
-      <Actual result>The button to enter email is
-	    not clickable</Actual result>
-      <Expected result>The button to enter email
+      <Actual_result>The button to enter email is
+	    not clickable</Actual_result>
+      <Expected_result>The button to enter email
 	    is clickable and an input field should
-	    appear</Expected result>
+	    appear</Expected_result>
     </Descriprion>
     <Environment>Android 12</Environment> 
     <Attachment>fghfmsk.mp4</Attachment>
