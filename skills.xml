@@ -1,0 +1,37 @@
+<My_skills>
+    <one>Basic theory</one>
+	<two>Client-server architecture</two>
+	<three>HTTP Methods of requests to the server</three>
+	<four>HTTP server response codes</four>
+	<five>Structures of HTTP requests and responses</five>
+	<six>What is JSON, XML. Their structure</six>
+	<seven>API testing via Postman</seven>
+	<eight>Removing and reading logs from an external 
+    server</eight>   
+	<nine>Sniffing http web traffic via Charles and 
+    Fiddler</nine>
+	<ten>Dev Tools of web browsers</ten>
+	<eleven>VPN.ow it works, why you need it, how to use
+    it, tool options</eleven>
+	<twelve>Mobile testing</twelve>
+	<thirteen>Feature of iOS, Android, guidelines</thirteen>
+	<fourteen>Building iOS applications on XCode</fourteen>
+	<fifteen>Building Android applications on Android
+    Studio</fifteen>
+	<sixteen>ADB (android device management)</sixteen>
+	<seventeen>Setting up proxy and vpn on iOS and Android</seventeen>
+	<eighteen>Interception of mobile traffic via Charles and
+    Fiddler on iOS and Android</eighteen>
+	<nineteen>Command line terminal Linux</nineteen>
+	<twenty>Basics of bash scripting, automation of
+    routine tasks on the server</twenty>
+	<twentyOne>Access to remote servers</twentyOne>
+	<twentyTwo>SQL basics</twentyTwo>
+	<twentyThree>Postgres database</twentyThree>
+	<twentyFour>Non-relational database Redis</twentyFour>
+	<twentyFive>Load testing in Jmeter</twentyFive>
+	<twentySix>Scrum development methodology</twentySix>
+	<twentySeven>Python. Learning the basics. Creating a
+    client-server application</twentySeven>
+
+</My_skills>
